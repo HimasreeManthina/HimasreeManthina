@@ -20,6 +20,7 @@ Passionate about building scalable, maintainable, and cloud-native web applicati
 
 ---
 
+
 ## 📂 Featured Projects
 
 - [Insurance Dashboard Demo](https://github.com/HimasreeManthina/insurance-dashboard-demo)  
