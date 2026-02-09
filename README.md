@@ -35,7 +35,7 @@ Passionate about building scalable, maintainable, and cloud-native web applicati
 
 ## 📫 Let’s Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-link)  
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/msree1412/))  
 - Email: manthimasree@gmail.com  
 
 ---
